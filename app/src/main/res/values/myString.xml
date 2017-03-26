@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="dialog1">1.雙鍵式對話框</string>
+    <string name="dialog2">2.多鍵式對話框</string>
+    <string name="dialog3">3.輸入式對話框</string>
+    <string name="dialog32">32.輸入型多欄對話框</string>
+    <string name="dialog4">4.單選式對話框</string>
+    <string name="dialog5">5.多選式對話框</string>
+    <string name="dialog6">6.列表式對話框</string>
+    <string name="dialog7">7.制定式對話框</string>
+
+    <string name="ok">確定</string>
+    <string name="cancel">取消</string>
+    <string name="exit">離開</string>
+
+    <string name="vote">您喜歡咖啡?</string>
+    <string name="yes">喜歡</string>
+    <string name="no">不喜歡</string>
+    <string name="neutral">沒意見</string>
+
+    <string name="age">輸入年齡</string>
+    <string name="age2">您輸入的年齡</string>
+<!--陣列字串-->
+    <string-array name="meat">
+        <item>牛肉</item>
+        <item>雞肉</item>
+        <item>豬肉</item>
+    </string-array>
+
+
+    <string-array name="fruit">
+        <item>香瓜</item>
+        <item>水蜜桃</item>
+        <item>酪梨</item>
+        <item>火龍果</item>
+        <item>蓮霧</item>
+        <item>鳳梨</item>
+    </string-array>
+
+    <string name="random">隨機數</string>
+</resources>
